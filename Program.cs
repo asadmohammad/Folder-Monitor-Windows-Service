@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace k163825_Q5
+namespace FolderMonitorService
 {
     static class Program
     {
